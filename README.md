@@ -1,0 +1,2 @@
+# QQPatchedTextViewHook
+hook PatchedTextView.smali 修复QQ低版本多行消息重复折叠bug
